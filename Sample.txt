@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 Hello World #1
 
+Hello, Programmer!
 
 
+=======
+Hello World #1
+
+Hello, Programmer!
+
+>>>>>>> 4eb6145e3d69cb692b9a95928e597762b81b7cc1
