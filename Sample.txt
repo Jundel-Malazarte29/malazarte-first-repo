@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 Hello World #1
 
-Hello, Programmer!
-Hello, Programmer2!
-=======
-Hello World #1
 
-Hello, Programmer!
->>>>>>> f270119f4006e082645bf21b8e13998dda387e32
+
