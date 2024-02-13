@@ -1,6 +1,4 @@
 Hello World #1
 
 Hello, Programmer!
-Hello, Programmer2!
-Hello, Programmer3!
-Hello, Programmer4!
+
